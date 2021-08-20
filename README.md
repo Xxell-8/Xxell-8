@@ -18,10 +18,7 @@
     <img src="https://img.shields.io/badge/Illustrator-FF9A00?style=flat&logo=Adobe-Illustrator&logoColor=white"/> 
     <img src="https://img.shields.io/badge/Premiere Pro-9999FF?style=flat&logo=Adobe-Premiere-Pro&logoColor=white"/> 
   </p>
-  <p>🔨포트폴리오 개발 중입니다🛠</p>
-  <p>
-    <a href="https://xxell-8.github.io/portfolio/" target="_blank"><img src="https://img.shields.io/badge/Xxellfie-181717?style=flat&logo=GitHub&logoColor=white"/></a>
-  </p>
+  
 
   [![Xxell's GitHub stats](https://github-readme-stats.vercel.app/api?username=Xxell-8&count_private=true&show_icons=true&theme=dark)](https://github.com/anuraghazra/github-readme-stats)
 </div>
