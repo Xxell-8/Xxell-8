@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Sarah👻&fontSize=70&animation=fadeIn&fontAlignY=35&desc=👉%20Frontend%20Devleoper&descAlignY=55&descAlign=70)
 
 <div align="center">
-  <img width="400" align="right" src="https://user-images.githubusercontent.com/77434535/154830710-e2b64419-c920-4b1f-9240-36c0d69bb004.gif"/> 
+  <img width="400" align="left" src="https://user-images.githubusercontent.com/77434535/154830710-e2b64419-c920-4b1f-9240-36c0d69bb004.gif"/> 
   <div align="left">
     <h2>Sarah ・ Frontend Developer</h2>
     <a href="https://github.com/xxell-8"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FXxell-8&count_bg=%23000000&title_bg=%23000000&icon=github.svg&icon_color=%23E7E7E7&title=GitHub&edge_flat=false)"/></a>
@@ -30,12 +30,11 @@
       <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
       <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=JiraSoftware&logoColor=white"/>
     </p>
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxell-8&theme=dracula&layout=compact&langs_count=8"/>
   </div>
-  
-  <br clear="right">
+  <br clear="left">
   <br>
   <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Xxell-8&count_private=true&show_icons=true&theme=dracula" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=Xxell-8&count_private=true&show_icons=true&theme=dracula" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=xxell-8&theme=dracula&layout=compact&langs_count=8"/>
   </div>
 </div>
