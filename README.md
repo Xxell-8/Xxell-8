@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Sarah👻&fontSize=70&animation=fadeIn&fontAlignY=35&desc=👉%20Frontend%20Devleoper&descAlignY=55&descAlign=70)
+<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=auto&height=250&section=header&text=Hello,%20I'm%20Sarah👻&fontSize=70&animation=fadeIn&fontAlignY=35&desc=👉%20Frontend%20Devleoper&descAlignY=55&descAlign=70) -->
 
 <div align="center">
   <img width="400" align="left" src="https://user-images.githubusercontent.com/77434535/154830710-e2b64419-c920-4b1f-9240-36c0d69bb004.gif"/> 
@@ -32,6 +32,7 @@
     </p>
   </div>
   <br clear="left">
+  <br>
   <br>
   <div align="center">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=Xxell-8&count_private=true&show_icons=true&theme=dracula" />
