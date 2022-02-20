@@ -15,13 +15,16 @@
     <img src="https://img.shields.io/badge/Git-F05032?style=flat&logo=Git&logoColor=white"/>
     <img src="https://img.shields.io/badge/Jira-0052CC?style=flat&logo=JiraSoftware&logoColor=white"/>
   </p>
-  <h3>My Pages👀</h3>
+  <h3>About👀</h3>
   <p>
     <a href="https://ccell.notion.site/d1f96d50ee4d4bbabd47bdca15334070" target="_blank">
-      <img src="https://img.shields.io/badge/About-000000?style=flat&logo=Notion&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Portfolio-FFFFFF?style=flat&logo=Notion&logoColor=black"/>
     </a>
     <a href="https://velog.io/@xxell-8" target="_blank">
       <img src="https://img.shields.io/badge/velog-34E0A1?style=flat&logo=Vimeo&logoColor=white"/>
+    </a>
+    <a href="mailto:cell8pepper@gmail.com">
+      <img src="https://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&mailto:6513032@gmail.com"/>
     </a>
   </p>
   
